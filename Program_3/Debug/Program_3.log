@@ -1,0 +1,5 @@
+﻿  Head.cpp
+c:\users\g\desktop\program_3\program_3\program_3\head.cpp(58): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\g\desktop\program_3\program_3\program_3\head.cpp(155): warning C4715: "wypakowanie”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\g\desktop\program_3\program_3\program_3\head.cpp(164): warning C4715: "sprawdz_iterator”: niewszystkie ścieżki kodu zwracają wartość
+  Program_3.vcxproj -> C:\Users\g\Desktop\Program_3\Program_3\Debug\Program_3.exe
